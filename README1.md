@@ -10,9 +10,9 @@ The game ends when you guess the word or when the hangman is fully drawn.
 A "Used Letters" section displays letters that have already been guessed.
 A "Play Again" button lets you restart the game with a new word.
 
-
 # Running the Application:
 You'll need Node.js and Git installed on your computer.
+
 1. Download the Project
 Open your terminal and enter the following commands:
 # Clone the repository to your local machine
@@ -20,12 +20,15 @@ git clone https://github.com/ivan-newton/Hangman.git
 
 # Navigate into the project folder
 cd Hangman
+
 2. Install Dependencies
 Once inside the project folder, install the necessary dependencies:
 npm install
-3. Start the Project
+
+4. Start the Project
 Run the following command to start the game:
 npm start
-4. Open in Browser
+
+6. Open in Browser
 After running the command, the default browser will open the application at:
 http://localhost:3000
